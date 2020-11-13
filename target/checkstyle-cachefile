@@ -1,0 +1,4 @@
+#Fri Nov 13 17:29:21 WET 2020
+configuration*?=1ACA027664B75D3ABBE6DCBE046422F546B81612
+module-resource*?\:checkstyle-xpath-suppressions.xml=1C29D536EAC925455AEC5DA12FC22BE8C1EFE0DC
+module-resource*?\:checkstyle-suppressions.xml=F491E5FD0FB578B8032C3C3661FAAD4A10233092
